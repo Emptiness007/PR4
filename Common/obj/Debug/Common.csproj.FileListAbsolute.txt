@@ -1,0 +1,6 @@
+E:\projects\PR4\PR4\Common\bin\Debug\Common.dll
+E:\projects\PR4\PR4\Common\bin\Debug\Common.pdb
+E:\projects\PR4\PR4\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+E:\projects\PR4\PR4\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\projects\PR4\PR4\Common\obj\Debug\Common.dll
+E:\projects\PR4\PR4\Common\obj\Debug\Common.pdb
